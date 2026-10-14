@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samkwee-hub.github.io/sni-homes-management/sitemap.xml
+Sitemap: https://www.snihomes.com/sitemap.xml
